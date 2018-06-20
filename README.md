@@ -1,7 +1,7 @@
 <img src="https://devmounta.in/img/logowhiteblue.png" width="250" align="right">
 
 # Basecamp JavaScript I Stretch Project
-
+#Reading more
 ## Objective
 Show an understanding of the JavaScript concepts taught in Basecamp up to this point.
 
